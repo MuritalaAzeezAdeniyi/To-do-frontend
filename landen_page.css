@@ -1,0 +1,466 @@
+*{
+    padding:0;
+    margin:0;
+}
+.top{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-bottom: 0;
+    justify-content: center;
+    justify-self: auto;
+    justify-items: center;
+    align-content: center;
+}
+.options{
+    display: flex;
+    gap: 40px;
+    font-size: medium;
+    color: black;
+    padding: 15px 20px;
+    margin-left: auto;
+    list-style-type: none;
+    text-decoration: none;
+    
+}   
+    .options li a{
+        text-decoration: none;
+        color:black;
+        font-weight : bold;
+        transition : 15;
+    }
+.middle{
+    margin-left: 70px;
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap: 100px;
+    margin-top: 0;
+}
+.firstDt{
+    justify-content: center;
+    width: 0px;
+    display:flex;
+    margin-bottom: -30px;
+}
+
+
+.mid{
+    width: 50%;
+}
+.doveImg{
+    height: 30px;
+    margin-right: -100px;
+    margin-top:-150px;
+
+}
+.big_text{
+    color: #38516d;
+    font-weight: bolder;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+.text{
+    margin-top: 0;
+}
+.gif{
+    height: inherit;
+}
+.double{
+    display: flex;
+    gap: 30px;
+}
+.btn1{
+    padding: 15px 40px;
+    background-color: green;
+    border: none;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.btn2{
+    padding: 10px 35px;
+    background-color: white;
+    border: 2px solid green;
+    border-radius: 10px;
+    color: green;
+    font-weight: bold;
+}
+
+.midtest{
+    margin-bottom: ;
+}
+
+.bigB{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 80%;
+    gap: 30px;
+}
+
+
+.firstB{
+    background-color: red;
+    color: white;
+    padding: 50px 70px;
+    border-radius: 15px;
+    width: 40%;
+    font-size: 20px;
+}
+.secondB{
+    background-color: red;
+    color: white;
+    padding: 60px 70px;
+    border-radius: 15px;
+    width: 40%;
+    font-size: 20px;
+}
+.span{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.mother{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.what_to_do{
+    display: flex;
+    width: 80%;
+
+}
+.btn{
+    padding: 10px 35px;
+    background-color: white;
+    border: 2px solid green;
+    border-radius: 10px;
+    color:green;
+    font-weight: bold;
+}
+.picture{
+    height: 20rem;
+    width: 40rem;
+    border-radius: 10px;
+    margin-top: 2%;
+    align-content:6%;
+}
+.Training{
+    font-size:large;
+    color:white; 
+    align-items:center;
+    font-weight: bold;
+}
+.picText{
+  margin-bottom:0;
+  background-color: green;
+  color: white;
+  font-weight : 30%;
+  height: 70%;
+  font-size: medium;
+  padding: 30px 40px;
+  border-radius: 1px;
+
+  
+}
+ .table{
+    margin-left: 40%;
+    margin-top : 40%;
+    display:flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-content: center;
+    margin-left: 40px;
+    margin-top: 70px;
+    margin-top:300px;
+ }
+
+ .firstB{
+    height:0px;
+    width:0px;
+ }
+ .whatWill{
+    margin-right: 70%;
+    margin-bottom: 50;
+    justify-content: space-evenly;
+    width: 30%;
+    height: 400px;
+    margin-bottom: 1000px;
+    margin-left: 20%;
+    gap:100%;
+    margin-top: -500px;
+    margin-left: 30px;
+}
+
+.enumHolder{
+    margin-top: 400px;
+    background-color: #2489e2;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.enum{
+    margin-left: 600px;
+     margin-top: 100px;
+
+}
+
+.enumPhotos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.innerText{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    text-align: center;
+}
+.brands{
+    width: 85%;
+    padding-inline: 10px
+}
+
+.global{
+    /* margin-top: 10%; */
+    margin-inline : 33%;
+    font-size: x-large;
+    align-items: center;
+    /* margin-right: 30%; */
+}
+.Mutiple{
+    /* gap: 20%;
+    justify-content: space-evenly;
+    margin-right:70%;
+    align-items: center; */
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    margin-top: 3%;
+    gap: 4%;
+}
+/* .branchTwo{
+    display:flex;
+    justify-content: space-evenly; */
+    /* flex-direction: row; 
+    margin-bottom: 5%;
+    gap: 10%;
+}
+.branchthree{
+    display:flex;
+    justify-content: space-evenly;
+    flex-direction: row;  
+    margin-bottom: 5%;
+    gap: 10%;
+
+} */
+
+.Overall{
+    /* gap: 5px; */
+    align-items: center;
+    margin-right: 10%;
+    text-align: center;
+    margin-top: 100px;
+}
+ .buttonT{
+    background-color: red;
+    justify-content: center;
+    align-content: center;
+    align-content: center;
+    width: 100%;
+    text-align: center;
+    /* background: position 3px;  */
+    /* margin-left: -50; */
+    padding : 4vw 2vw;
+    margin-top: 100px;
+    color : white
+    
+    
+ }
+
+.general{
+    background-color: #fff2c7;
+    
+    height: 20vh;
+    width:  34vw;
+     margin-bottom: 20%;
+     justify-content: center;
+     align-content: center;
+     align-content: center;
+     text-align: center;
+     padding: 2vw 2vw;
+     border-radius: 5px ;
+     border-color: red;
+     margin-top: 100px;
+    border-style: none;
+    margin-left: 400px;
+
+
+}
+.learnButton{
+    border-radius: 6px;
+    padding: 2vh 2.7vw ;
+    background-color:#1e90ff;
+    border:none;color:white;
+    cursor:pointer;
+    font-weight: bolder;
+    font-size: x-small;
+}
+.learnButton:hover{
+    padding-left:2.8vw;
+    padding-right: 2.5vw;
+
+}
+.sub{
+    gap:10px;
+    justify-content: center;
+    align-content: first baseline;
+}
+
+.subT{
+    gap: 2%;
+    margin-bottom: 1%;
+}
+
+.generalLayout{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: -150px;
+    margin-inline-start:1vw;
+    
+
+}
+.generalLayout > div{
+    margin-inline : 1vw ;
+}
+
+.layout{
+    display: flex;
+    flex-direction: column;
+    margin-inline-start: 30%;
+    gap: 15%
+}
+ 
+
+/* .logo{
+    position: relative;
+    margin-bottom:100PX;
+    margin-right:10%;
+}
+ 
+.womenT{
+    margin-left: 75%;
+    margin-top: -8%;
+    margin-bottom : 50%;
+    weigth: 
+}
+.senior{
+    margin-top:-120%;
+    margin-right:30%;
+}
+.winp{
+    margin-right: 100%;
+    margin-top: -55%;
+    margin-left: -80%;
+}
+
+ */
+
+
+ .photo{
+    display: flex;
+    width: 20px;
+    heigth: 30px;
+    margin-left: -9850px;
+    justify-content: space-evenly;
+    gap:8px ;
+    margin-top:12px;
+ }
+
+ .table .firstDt {
+    color: green;
+ }
+
+ .secondDt{
+    gap: 8px;
+    margin-bottom: -1000px;
+    display: flex;
+    margin-left: 27px;
+ }
+
+
+.thirdDt{
+    display: flex;
+    margin-top:3px ;
+    gap: 8px;
+    margin-left: 25px ;
+}
+.fur{
+    background-color: green;
+    width: 10000px;
+    height:360px;
+    margin-top: 15px;
+}
+.fouth{
+    display: flex;
+    gap:8px;
+    margin-top:-10px;
+    margin-left:25px;
+
+}
+.fifth{
+    display: flex;
+    gap: 8px;
+    margin-left:25px ;
+}
+.fth{
+    background-color: green;
+    width: 10000px;
+    height: 360px;
+    margin-top: 15px;
+    margin-top:8px ;
+}
+
+.customer{
+    background-color: darkslategray;
+    width: 10000px;
+    height: 350px;
+    margin-top:30px;
+ }
+.customerT{
+    display:flex;
+    gap:4px;
+
+}
+.CImage{
+    margin-left: 600px;
+}
+.Ctext{
+    align-items: center;
+    justify-content: center;
+    margin-left: 160px;
+    margin-top: 80px;
+}
+.CT1{
+    font-size: large;
+    font-style:oblique;
+    font-stretch: expanded;
+    font-weight: bold;
+    color:greenyellow;
+}
+.CT2{
+    font-size: 45px;
+    font-weight: bold;
+    color:white;
+}
+.CT3{
+    color: white;
+    font-size: small;
+}
